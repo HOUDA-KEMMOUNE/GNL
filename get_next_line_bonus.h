@@ -6,7 +6,7 @@
 /*   By: hkemmoun <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/16 23:24:45 by hkemmoun          #+#    #+#             */
-/*   Updated: 2024/12/17 12:20:40 by hkemmoun         ###   ########.fr       */
+/*   Updated: 2024/12/18 16:52:16 by hkemmoun         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 10
 # endif
-# define MAX_FD 10240
+# define MAX_FD 1024
 # include <unistd.h>
 # include <stdlib.h>
 # include <fcntl.h>

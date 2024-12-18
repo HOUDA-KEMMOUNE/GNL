@@ -6,10 +6,9 @@
 /*   By: hkemmoun <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/12 14:12:28 by hkemmoun          #+#    #+#             */
-/*   Updated: 2024/12/17 12:20:02 by hkemmoun         ###   ########.fr       */
+/*   Updated: 2024/12/18 16:51:55 by hkemmoun         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
